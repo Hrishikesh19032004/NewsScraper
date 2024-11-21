@@ -1,6 +1,3 @@
-Here's a sample `README.md` file for your GitHub project that uses the News API to scrape news articles. You can modify it as needed to suit your specific project details.
-
-```markdown
 # News Scraper
 
 A simple news scraper that retrieves the latest news articles based on a search query using the [News API](https://newsapi.org/). This application allows users to enter a query and fetch relevant news articles along with their titles, descriptions, images, and URLs.
@@ -96,9 +93,3 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ```
 
-### Instructions to Customize
-- Replace `yourusername` in the GitHub clone URL with your actual GitHub username.
-- Add any specific instructions that pertain to your project, such as additional features, usage examples, or configuration details.
-- If your project has a license, ensure to include the license details at the end of the README.
-
-Feel free to ask if you need further customization or any additional information!
